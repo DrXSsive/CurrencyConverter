@@ -1,6 +1,6 @@
 # 🚀 Currency Converter
 
-This project is a **.NET API 9** application with a variety of modern features and best practices implemented. Below is an overview of the project's features, how to build and run it, and details about CI/CD integration.
+This project is a **.NET API 9** application with a variety of modern features and best practices implemented. Below is an overview of the project's features, how to build and run it.
 
 ---
 
